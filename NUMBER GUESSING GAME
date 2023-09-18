@@ -8,7 +8,7 @@ int main()
     char playAgain;
 
     do {
-        // Initialize random seed
+        // Initialize random seed 
         srand(static_cast<unsigned int>(time(NULL)));
 
         // Generate a random number between 1 and 100
